@@ -1,8 +1,7 @@
 # PHYTONPROGRESS
 A simple codes made by Ephraim Jestie G. Rosario for academic and project purposes using Python language
 
-
-
+SIMPLE RECEIPT USING PYDROID3
 
     def main():
    #we will use input("..."): To prompts the user for some text input 
